@@ -16,7 +16,7 @@ let settings = {
     pages: [
         // --- Lembar 1 (data-page="0") ---
         { 
-            image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+            image: './image/theend.png', // Menggantikan bolsw2.png (Index 0)
         },
         { 
             image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
@@ -359,7 +359,7 @@ function initializeDefaultSettings() {
         pages: [
             // --- Lembar 1 (data-page="0") ---
             { 
-                image: '.image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+                image: '.image/theend.png', // Menggantikan bolsw2.png (Index 0)
             },
             { 
                 image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
@@ -1084,7 +1084,7 @@ function createPages() {
             }
         } else {
             const endImg = document.createElement('img');
-            endImg.src = './image/theend.jpg';
+            endImg.src = './image/theend.png';
             endImg.onerror = function () {
                 back.classList.add('empty-page');
                back.textContent = t('endOfBook');
