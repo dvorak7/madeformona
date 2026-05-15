@@ -9,7 +9,7 @@ let settings = {
     matrixText: 'HAPPYBIRTHDAY',
     matrixColor1: '#ff69b4', // Màu pink mẫu
     matrixColor2: '#ff1493', // Màu pink mẫu
-    sequence: 'HAPPY|BIRTHDAY|TO|ANITA|❤',
+    sequence: 'HAPPY|BIRTHDAY|TO|MONA|❤',
     sequenceColor: '#ff69b4', // Màu pink mẫu
     gift: './image/happy3.gif',
     enableBook: true,
@@ -19,22 +19,22 @@ let settings = {
             image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
-            image: './image/photos/b1.png', // Menggantikan lhvuck.png (Index 1)
+            image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
         },
 
         // --- Lembar 2 (data-page="1") ---
         { 
-            image: './image/photos/b2.png', // Menggantikan fjr3qh.png (Index 2)
-            content: 'Happy Birthday Sayang 💗' 
+            image: './image/photos/b3.jpg', // Menggantikan fjr3qh.png (Index 2)
+            content: 'Happy Birthday Mona 💗' 
         },
         { 
-            image: './image/photos/b3.png', // Menggantikan 8u5tf7.png (Index 3)
+            image: './image/photos/b4.jpg', // Menggantikan 8u5tf7.png (Index 3)
         },
 
         // --- Lembar 3 (data-page="2") ---
         { 
             image: './image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
-            content: 'As long as you’re smiling, I’m happy. Stay happy, my love.' 
+            content: 'As long as you’re smiling, I’m happy. Stay happy, Mona kuhh.' 
         }
     ],
     enableBook: true,
@@ -362,22 +362,22 @@ function initializeDefaultSettings() {
                 image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
             },
             { 
-                image: './image/photos/b1.png', // Menggantikan lhvuck.png (Index 1)
+                image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
             },
 
             // --- Lembar 2 (data-page="1") ---
             { 
-                image: './image/photos/b2.png', // Menggantikan fjr3qh.png (Index 2)
-                content: 'Happy Birthday Sayang 💗' 
+                image: './image/photos/b3.jpg', // Menggantikan fjr3qh.png (Index 2)
+                content: 'Happy Birthday Mona 💗' 
             },
             { 
-                image: './image/photos/b3.png', // Menggantikan 8u5tf7.png (Index 3)
+                image: './image/photos/b4.jpg', // Menggantikan 8u5tf7.png (Index 3)
             },
 
             // --- Lembar 3 (data-page="2") ---
             { 
-                image: './image/photos/b5.png', // Menggantikan tbutvj.png (Index 4)
-                content: 'As long as you’re smiling, I’m happy. Stay happy, my love.' 
+                image: './image/photos/b5.jpg', // Menggantikan tbutvj.png (Index 4)
+                content: 'As long as you’re smiling, I’m happy. Stay happy, mona kuu.' 
             }
         ]
     };
