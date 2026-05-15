@@ -19,22 +19,22 @@ let settings = {
             image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
-            image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
+            image: './image/photos/b1.jpg', // Menggantikan lhvuck.png (Index 1)
         },
 
         // --- Lembar 2 (data-page="1") ---
         { 
-            image: './image/photos/b3.jpg', // Menggantikan fjr3qh.png (Index 2)
+            image: './image/photos/b2.jpg', // Menggantikan fjr3qh.png (Index 2)
             content: 'Happy Birthday Mona 💗' 
         },
         { 
-            image: './image/photos/b4.jpg', // Menggantikan 8u5tf7.png (Index 3)
+            image: './image/photos/b3.jpg', // Menggantikan 8u5tf7.png (Index 3)
         },
 
         // --- Lembar 3 (data-page="2") ---
         { 
             image: './image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
-            content: 'As long as you’re smiling, I’m happy. Stay happy, Mona.' 
+            content: 'As long as you’re smiling, I’m happy. Stay happy, Mona kuu.' 
         }
     ],
     enableBook: true,
@@ -359,25 +359,25 @@ function initializeDefaultSettings() {
         pages: [
             // --- Lembar 1 (data-page="0") ---
             { 
-                image: '.image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+                image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
             },
             { 
-                image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
+                image: './image/photos/b1.jpg', // Menggantikan lhvuck.png (Index 1)
             },
 
             // --- Lembar 2 (data-page="1") ---
             { 
-                image: './image/photos/b3.jpg', // Menggantikan fjr3qh.png (Index 2)
+                image: './image/photos/b2.jpg', // Menggantikan fjr3qh.png (Index 2)
                 content: 'Happy Birthday Mona 💗' 
             },
             { 
-                image: './image/photos/b4.jpg', // Menggantikan 8u5tf7.png (Index 3)
+                image: './image/photos/b3.jpg', // Menggantikan 8u5tf7.png (Index 3)
             },
 
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b5.jpg', // Menggantikan tbutvj.png (Index 4)
-                content: 'As long as you’re smiling, I’m happy. Stay happy, mona kuu.' 
+                content: 'As long as you’re smiling, I’m happy. Stay happy, Mona ku.' 
             }
         ]
     };
