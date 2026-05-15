@@ -16,7 +16,7 @@ let settings = {
     pages: [
         // --- Lembar 1 (data-page="0") ---
         { 
-            image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+            image: './image/photos/b1.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
             image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
@@ -33,8 +33,8 @@ let settings = {
 
         // --- Lembar 3 (data-page="2") ---
         { 
-            image: './image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
-            content: 'As long as you’re smiling, I’m happy. Stay happy, Mona kuhh.' 
+            image: './image/photos/b2.jpg', // Menggantikan tbutvj.png (Index 4)
+            content: 'As long as you’re smiling, I’m happy. Stay happy, Mona.' 
         }
     ],
     enableBook: true,
@@ -359,7 +359,7 @@ function initializeDefaultSettings() {
         pages: [
             // --- Lembar 1 (data-page="0") ---
             { 
-                image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+                image: '.image/photos/b2.jpg', // Menggantikan bolsw2.png (Index 0)
             },
             { 
                 image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
