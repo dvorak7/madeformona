@@ -16,7 +16,7 @@ let settings = {
     pages: [
         // --- Lembar 1 (data-page="0") ---
         { 
-            image: './image/photos/b1.jpg', // Menggantikan bolsw2.png (Index 0)
+            image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
             image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
@@ -349,7 +349,7 @@ function initializeDefaultSettings() {
         matrixText: 'HAPPYBIRTHDAY',
         matrixColor1: '#ff69b4', // Màu pink mẫu
         matrixColor2: '#ff1493', // Màu pink mẫu
-        sequence: 'HAPPY|BIRTHDAY|TO|Mona|❤',
+        sequence: 'HAPPY|BIRTHDAY|TO|MONA|❤',
         sequenceColor: '#ff69b4', // Màu pink mẫu
         gift: './image/happy3.gif',
         enableBook: true,
@@ -359,7 +359,7 @@ function initializeDefaultSettings() {
         pages: [
             // --- Lembar 1 (data-page="0") ---
             { 
-                image: '.image/photos/b2.jpg', // Menggantikan bolsw2.png (Index 0)
+                image: '.image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
             },
             { 
                 image: './image/photos/b2.jpg', // Menggantikan lhvuck.png (Index 1)
