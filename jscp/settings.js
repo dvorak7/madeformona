@@ -33,7 +33,7 @@ let settings = {
 
         // --- Lembar 3 (data-page="2") ---
         { 
-            image: './image/photos/b2.jpg', // Menggantikan tbutvj.png (Index 4)
+            image: './image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
             content: 'As long as you’re smiling, I’m happy. Stay happy, Mona.' 
         }
     ],
